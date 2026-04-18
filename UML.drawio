@@ -1,0 +1,46 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Página-1" id="w3RM8XhEo6InryHmFMJV">
+    <mxGraphModel dx="451" dy="742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="1fseHf2218cuBw7r3-I3-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Administrador" vertex="1">
+          <mxGeometry height="60" width="30" x="440" y="20" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-2" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Usuario" vertex="1">
+          <mxGeometry height="60" width="30" x="285" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-3" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Registrarse" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-4" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Marcar completado" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-5" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver hábitos" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Eliminar hábito" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="610" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-7" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Iniciar sesión" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Crear hábito" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="420" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-9" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Editar hábito" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="515" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-12" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver progreso" vertex="1">
+          <mxGeometry height="70" width="140" x="230" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-14" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Ver todos hábitos" vertex="1">
+          <mxGeometry height="70" width="140" x="385" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="1fseHf2218cuBw7r3-I3-15" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Gestionar usuarios" vertex="1">
+          <mxGeometry height="70" width="140" x="385" y="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
